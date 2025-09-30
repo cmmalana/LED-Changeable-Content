@@ -1,7 +1,7 @@
 # LED Changeable Content
 
 This program is designed for LED installations equipped with radar for interaction.  
-The displayed content can be changed using an Android tablet running [Fotomoko](https://github.com/cmmalana/Fotomoko).
+The displayed content can be changed using an Android tablet running [Remote LED Changeable Content](https://github.com/cmmalana/Remote-LED-Changeable-Content).
 
 ### Screenshot
 <img src="./screenshot.png" alt="Demo Screenshot" width="600">
@@ -10,7 +10,7 @@ The displayed content can be changed using an Android tablet running [Fotomoko](
 [Watch on Facebook](https://www.facebook.com/share/v/1CoeLnPijQ/)
 
 ## Features
-- Fetches the video index sent by the Android tablet running [Fotomoko](https://github.com/cmmalana/Fotomoko).
+- Fetches the video index sent by the Android tablet running [Remote LED Changeable Content](https://github.com/cmmalana/Remote-LED-Changeable-Content).
 - Includes interactive water effects triggered by steps and touches on the floor and walls.
 - Supports multiple LED Changeable Content displays controlled simultaneously by a single Android tablet.
 - No manual IP configuration required — communication uses broadcast.
