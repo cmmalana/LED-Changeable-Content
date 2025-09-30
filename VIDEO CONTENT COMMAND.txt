@@ -1,0 +1,1 @@
+ffmpeg -i input.mp4 -c:v hevc_nvenc -preset p4 -rc vbr -b:v 40M -maxrate 45M -bufsize 80M -pix_fmt yuv420p -profile:v main -c:a copy output_6k_nvenc.mp4
